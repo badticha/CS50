@@ -1,0 +1,35 @@
+html{
+    height: 100%;
+    
+}
+body{
+    height: 100%;
+    margin: 0;
+}
+
+#container{
+   position: fixed;
+   top: 35%;
+   left: 50%;
+   -webkit-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+}
+
+#blood{
+    border-radius: 15px;
+    border-width: 1px;
+    width: 350px;
+    height: 30px;
+}
+
+#input-container{
+    margin-bottom: 30px;
+}
+
+#money{
+    text-align: center;
+}
+
+#content{
+    width: 500px;
+}
